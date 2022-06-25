@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abedashi
-- 👀 I’m interested in ... development
-- 🌱 I’m currently learning ... starting java
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in ... baskteball
+- 🌱 I’m currently learning ... web development
+- 💞️ I’m looking to collaborate on ... !
 - 📫 How to reach me ...abed_ashi@hotmail.com
 
 <!---
