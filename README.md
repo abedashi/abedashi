@@ -8,7 +8,7 @@
 <a href="https://twitter.com/abed726623661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abed726623661" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abed-ashie-4b17a320a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abed-ashie-4b17a320a" height="30" width="40" /></a>
 <a href="https://instagram.com/abedashi5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abedashi5" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abed al salam ashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abed al salam ashi" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/abedalsalamashi1544"](https://www.youtube.com/channel/UCQ9Jo4HU4tV54EviHjngOZA) target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abed al salam ashi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
