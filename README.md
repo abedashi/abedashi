@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abed Ashi</h1>
 <h3 align="center">A passionate frontend developer from Lebanon</h3>
-<!-- <img align="right" alt"Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif"> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abedashi&label=Profile%20views&color=0e75b6&style=flat" alt="abedashi" /> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/abed726623661" target="blank"><img src="https://img.shields.io/twitter/follow/abed726623661?logo=twitter&style=for-the-badge" alt="abed726623661" /></a> </p> -->
 
 - 📫 How to reach me **abed_ashi@hotmail.com**
 
